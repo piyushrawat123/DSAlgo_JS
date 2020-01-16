@@ -3,7 +3,7 @@ var num = 100;
 var arr = {};
 
 function fact(n){
-
+//var comment = "unn unnnnnnnnnn jeet ki taiyaariiiii";
   if(arr[n])
     return arr[n];
 
